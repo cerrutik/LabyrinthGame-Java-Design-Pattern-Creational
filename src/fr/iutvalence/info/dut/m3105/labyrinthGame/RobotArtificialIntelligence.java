@@ -1,6 +1,6 @@
 package fr.iutvalence.info.dut.m3105.labyrinthGame;
 
-public interface RobotArtificialIntelligence
+public abstract class RobotArtificialIntelligence
 {
 	/**
 	 * callback method used to get the action the robot wish to perform
